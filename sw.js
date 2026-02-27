@@ -1,5 +1,5 @@
 const cacheName = 'ef-class-v2';
-const assets = ['./', './index.html', './logo.png', './manifest.json'];
+const assets = ['./', './index.html', './logo.png', './favicon.png', './logo.gif', './logo-kampus.png', './manifest.json'];
 
 self.addEventListener('install', e => {
     e.waitUntil(
